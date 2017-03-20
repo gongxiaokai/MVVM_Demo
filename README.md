@@ -1,8 +1,12 @@
 # MVVM_Demo
 
+[简书地址](http://www.jianshu.com/p/830358e81da5)
 
 #Demo效果
+
 使用MVVM+RAC请求网络数据
+
+
 ![demo.gif](http://upload-images.jianshu.io/upload_images/4009159-b47b9333536e743f.gif?imageMogr2/auto-orient/strip)
 
 
