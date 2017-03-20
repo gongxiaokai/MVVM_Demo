@@ -1,0 +1,6 @@
+framework module Motis {
+  umbrella header "Motis-umbrella.h"
+
+  export *
+  module * { export * }
+}
